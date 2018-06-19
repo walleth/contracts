@@ -7,7 +7,7 @@ But it can also be useful for testing.
 
 Deployment:
 
- * 0x6475a7fa6ed2d5180f0e0a07c2d951d12c0edb91 - Rinkeby
- * 0x643b6870beabee941b9260a0a878bcf4a61fb0f1 - Main
- * 0xfd5a69a1309595ff5121553f52c8a5b2b1b31031 - Ropsten
+ * Rinkeby: 0x6475A7FA6Ed2D5180F0e0a07c2d951D12C0EDB91
+ * Main: 0x643B6870beabee941B9260a0A878bcF4A61Fb0f1
+ * Ropsten: 0xFD5a69A1309595FF5121553F52C8A5B2B1B31031
  
